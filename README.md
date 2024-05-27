@@ -12,14 +12,11 @@ fusion, on the other hand, generally produces more equitable results, especially
 is carefully considered. Future research could explore alternative fusion strategies and incorporate addi-
 tional fairness constraints to improve fairness in algorithmic decision-making. 
 
-### Keywords
-
-Computer vision, Natural language processing, Multimodal, Fairness, Algorithmic Fairness, Multimedia Fusion
-
 [CODE](https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb) 
 [PAPER](https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Paper.pdf) 
 [POSTER](https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Poster.pdf)
 
+<a href="#" class="button">Post comment ([link](https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb))</a>
 
-### Contact Information
+### Contact
 [swati.swati@unibw.de](mailto:swati.swati@unibw.de) 
