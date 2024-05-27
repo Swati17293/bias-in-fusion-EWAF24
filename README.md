@@ -16,9 +16,11 @@ tional fairness constraints to improve fairness in algorithmic decision-making.
 
 Computer vision, Natural language processing, Multimodal, Fairness, Algorithmic Fairness, Multimedia Fusion
 
-[CODE](https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb) [PAPER] (https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Paper.pdf) [POSTER] (https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Poster.pdf)
+[CODE](https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb) 
+[PAPER] (https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Paper.pdf) 
+[POSTER] (https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Poster.pdf)
 
 
-## Contact Information
+### Contact Information
 
-[swati@ijs.si](mailto:swati.swati@unibw.de) or [swati17293@gmail.com](mailto:swati17293@gmail.com)
+[swati.swati@unibw.de](mailto:swati.swati@unibw.de) or [swati17293@gmail.com](mailto:swati17293@gmail.com)
