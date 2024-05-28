@@ -13,8 +13,8 @@ is carefully considered. Future research could explore alternative fusion strate
 tional fairness constraints to improve fairness in algorithmic decision-making. 
 
 <a href="https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb"><button type="button" style="padding: 5px 5px;">CODE</button></a>
-<a href="./assets/img/Paper.pdf"><button type="button" style="padding: 10px 10px;">PAPER</button></a>
-<a href="./assets/img/Poster.pdf"><button type="button" style="padding: 20px 20px;">POSTER</button></a>
+<a href="./assets/img/Paper.pdf"><button type="button" style="padding: 7px 7px;">PAPER</button></a>
+<a href="./assets/img/Poster.pdf"><button type="button" style="padding: 6px 6px;">POSTER</button></a>
 
 <p style="color:#033E3E;"><small>Swati and Arjun Roy and Eirini Ntoutsi. Exploring Fusion Techniques in Multimodal AI-Based Recruitment: Insights from FairCVdb. In the Proceedings of the 2nd European Workshop on Algorithmic Fairness (EWAF’24). 2024.</small></p>
 
