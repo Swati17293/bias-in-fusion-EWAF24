@@ -18,7 +18,9 @@ tional fairness constraints to improve fairness in algorithmic decision-making.
 
 <a href="/assets/img/Poster.pdf" type="application/pdf">POSTERR</a>
 
-<a href="/assets/img/Poster.pdf">POSTER-no</a>
+<a href="/assets/img/Poster.pdf">POSTER-NO</a>
+
+<a href="/assets/img/Poster.pdf">POSTER-NO</a>
 
 
 ### Contact
