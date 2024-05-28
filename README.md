@@ -16,7 +16,7 @@ tional fairness constraints to improve fairness in algorithmic decision-making.
 [PAPER](https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Paper.pdf) 
 [POSTER](https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Poster.pdf)
 
-
+<a href="./assets/img/Paper.pdf">PAPER</a>
 <a href="./assets/img/Poster.pdf">POSTER</a>
 
 
