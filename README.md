@@ -20,7 +20,7 @@ tional fairness constraints to improve fairness in algorithmic decision-making.
 
 <a href="https://github.com/Swati17293/bias-in-fusion-EWAF24/blob/main/assets/img/Poster.pdf">YY</a>
 
-<a href="/assets/img/Poster.pdf">XX</a>
+<a href="./assets/img/Poster.pdf">XX</a>
 
 
 ### Contact
