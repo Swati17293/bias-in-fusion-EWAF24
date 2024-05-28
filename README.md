@@ -16,11 +16,11 @@ tional fairness constraints to improve fairness in algorithmic decision-making.
 [PAPER](https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Paper.pdf) 
 [POSTER](https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Poster.pdf)
 
-<a href="https://github.com/Swati17293/bias-in-fusion-EWAF24/blob/main/assets/img/Poster.pdf" type="application/pdf">POSTERR</a>
+<a href="https://github.com/Swati17293/bias-in-fusion-EWAF24/blob/main/assets/img/Poster.pdf" type="application/pdf">ZZ</a>
 
-<a href="https://github.com/Swati17293/bias-in-fusion-EWAF24/blob/main/assets/img/Poster.pdf">POSTER-NO</a>
+<a href="https://github.com/Swati17293/bias-in-fusion-EWAF24/blob/main/assets/img/Poster.pdf">YY</a>
 
-<a href="/assets/img/Poster.pdf">POSTER-NO</a>
+<a href="/assets/img/Poster.pdf">XX</a>
 
 
 ### Contact
