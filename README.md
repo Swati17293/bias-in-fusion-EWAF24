@@ -12,9 +12,9 @@ fusion, on the other hand, generally produces more equitable results, especially
 is carefully considered. Future research could explore alternative fusion strategies and incorporate addi-
 tional fairness constraints to improve fairness in algorithmic decision-making. 
 
-<a href="https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb" style="background-color:#CFECEC;"><button type="button"><b> CODE </b></button></a>
+<a href="https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb" style="background-color:#EBF4FA;"><button type="button"> CODE </button></a>
 <a href="./assets/img/Paper.pdf"><button type="button" style="background-color:#EBF4FA;"> PAPER </button></a>
-<a href="./assets/img/Poster.pdf"><button type="button" style="background-color:#CFECEC;"> POSTER </button></a>
+<a href="./assets/img/Poster.pdf"><button type="button" style="background-color:#EBF4FA;"> POSTER </button></a>
 
 <p style="color:#033E3E;"><small>Swati and Arjun Roy and Eirini Ntoutsi. Exploring Fusion Techniques in Multimodal AI-Based Recruitment: Insights from FairCVdb. In the Proceedings of the 2nd European Workshop on Algorithmic Fairness (EWAF’24). 2024.</small></p>
 
