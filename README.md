@@ -22,8 +22,3 @@ tional fairness constraints to improve fairness in algorithmic decision-making.
 <a href="./assets/img/Paper.pdf"><button type="button">PAPER</button></a>
 <a href="./assets/img/Poster.pdf"><button type="button">POSTER</button></a>
 
-
-
-
-### Contact
-[swati.swati@unibw.de](mailto:swati.swati@unibw.de) 
