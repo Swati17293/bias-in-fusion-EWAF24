@@ -16,3 +16,8 @@ tional fairness constraints to improve fairness in algorithmic decision-making.
 <a href="./assets/img/Paper.pdf"><button type="button">PAPER</button></a>
 <a href="./assets/img/Poster.pdf"><button type="button">POSTER</button></a>
 
+### Cite As
+```
+Swati and Arjun Roy and Eirini Ntoutsi. Exploring Fusion Techniques in Multimodal AI-Based Recruitment: Insights from FairCVdb In the Proceedings of the 2nd European Workshop on Algorithmic Fairness (EWAF’24). 2024.
+```
+
