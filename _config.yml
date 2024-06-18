@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: EWAF'24
 description: [Swati Swati . Arjun Roy . Eirini Ntoutsi]
 show_downloads: false
-logo: /assets/img/EWAF_Poster.pptx.png
+logo: /assets/img/Poster.pptx.png
 github:
   is_project_page: true
