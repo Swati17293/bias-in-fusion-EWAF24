@@ -7,6 +7,6 @@ Despite the large body of work on fairness-aware learning for individual modalit
 <a href="./assets/img/Paper.pdf"><button type="button" style="background-color:#EBF4FA;"> <b>PAPER</b> </button></a>
 <a href="./assets/img/Poster.pdf"><button type="button" style="background-color:#EBF4FA;"> <b>POSTER</b> </button></a>
 
-<p style="color:#033E3E;"><small>Swati Swati, Arjun Roy and Eirini Ntoutsi. Exploring Fusion Techniques in Multimodal AI-Based Recruitment: Insights from FairCVdb. In the Proceedings of the 2nd European Workshop on Algorithmic Fairness (EWAF’24). 2024.</small></p>
+<p style="color:#033E3E;"><small>Swati Swati, Arjun Roy and Eirini Ntoutsi. Exploring Fusion Techniques in Multimodal AI-Based Recruitment: Insights from FairCVdb. In the Proceedings of the third European Workshop on Algorithmic Fairness (EWAF’24). 2024.</small></p>
 
 
